@@ -1,0 +1,3 @@
+SELECT distinct region
+from country
+LIMIT 4
